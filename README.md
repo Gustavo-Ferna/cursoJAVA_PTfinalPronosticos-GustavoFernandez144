@@ -1,1 +1,2 @@
-# cursoJAVA_PTfinalPronosticos-GustavoFernandez144
+# Practico Final "Pronosticos"
+Alumno: Fernandez Gustavo - comision 144
