@@ -9,9 +9,9 @@ public class Equipo {
     public Equipo() {
     }
 
-    public Equipo(String nombreEquipo, int codEquipo) {
+    public Equipo(String nombreEquipo) {
         this.nombreEquipo = nombreEquipo;
-        this.codEquipo = codEquipo;
+        //this.codEquipo = codEquipo;
     }
 
     public String getNombreEquipo() {
